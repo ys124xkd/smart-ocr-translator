@@ -59,7 +59,7 @@ This project uses **Tesseract OCR** for text recognition, **Google Translator** 
 ## 📷 Prediction Result
 
 <p align="center">
-  <img src="./assets/prediction.png" width="600">
+  <img src="prediction.png" width="600">
 </p>
 
 ---
